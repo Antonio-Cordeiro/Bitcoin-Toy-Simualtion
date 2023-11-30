@@ -5,7 +5,7 @@ The paper discusses the key components of the simulation, including agents, mine
 
 ## Getting Started
 
-To try runnin the project you just have to run the main class. You will be able to set some parameters and then, when the program starts running, something will be printed out when a block is added to the blockchain. \
+To try running the project you just have to run the main class. You will be able to set some parameters and then, when the program starts running, something will be printed out when a block is added to the blockchain. \
 It is possible to modify the code to your liking and print something different, like a block structure or when invalid blocks are not added to the blockchain.
 
 ## Implementation details
@@ -26,5 +26,4 @@ The workspace contains two folders by default, where:
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
 
